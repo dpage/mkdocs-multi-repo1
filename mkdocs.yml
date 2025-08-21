@@ -1,1 +1,4 @@
 site_name: MkDocs Repo 1
+
+nav:
+  - Repo 1: index.md
